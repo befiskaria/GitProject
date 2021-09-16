@@ -20,7 +20,7 @@
 * Request Pull request(PR) for review code
 
 4) Team lead will review the code
-Case 1: Changes required, then provide comments to Team member
-Case 2: Everything good, then provide approval to merge code in to Master branch in GitHub
+* Case 1: Changes required, then provide comments to Team member
+* Case 2: Everything good, then provide approval to merge code in to Master branch in GitHub
 
 5) Merge code with the Master branch
